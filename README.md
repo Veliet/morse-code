@@ -10,7 +10,7 @@
 - Entrada não está 100% quando o usuário entra com morse ao invez de texto.
 - espaçamento entre as palavras precisa ser trabalhado.
 
-## Melhorar 
+## Upgrade 
 
-- dar uma cara melhor a interface.
+- Interface.
 - Add mais caracteres ao dicionario.
