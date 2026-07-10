@@ -5,6 +5,12 @@
 - tkinter
 - reverse (key e value)
 
+## Funcionalidades
+
+- Texto → Morse
+- Morse → Texto
+- Tradução em tempo real
+
 ## Obs
 
 - Entrada não está 100% quando o usuário entra com morse ao invez de texto.
